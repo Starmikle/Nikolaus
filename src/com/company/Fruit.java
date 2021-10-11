@@ -15,3 +15,4 @@ public abstract class Fruit {
         this.weight = weight;
     }
 }
+//srudent//
